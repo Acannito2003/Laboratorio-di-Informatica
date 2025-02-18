@@ -1,3 +1,3 @@
-# Laboratorio-di-Informatica 22-23
+# Laboratorio di Informatica 2022-23
 Gioco dell'oca 
 
