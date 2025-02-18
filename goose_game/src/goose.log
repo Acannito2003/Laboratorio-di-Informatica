@@ -1,0 +1,70 @@
+================================== START LOG ==================================
+[12/07/23 13:48:34] main > wait_keypress - saving args to string buffer
+[12/07/23 13:48:34] main > wait_keypress - waiting for a keypress
+[12/07/23 13:48:34] main > wait_keypress - consumed keypress
+[12/07/23 13:48:34] main > main_menu > new_screen > clear_screen - got valid std handle
+[12/07/23 13:48:34] main > main_menu > new_screen > clear_screen - cleared screen
+[12/07/23 13:48:34] main > main_menu > new_screen > clear_screen - restored screen attributes, colors and cursor
+[12/07/23 13:48:34] main > main_menu > new_screen > get_term_size - creating std handle
+[12/07/23 13:48:34] main > main_menu > new_screen > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:34] main > main_menu > new_screen - printed centered title bar
+[12/07/23 13:48:34] main > main_menu > new_screen - printing horizontal separator of width 150
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen > clear_screen - got valid std handle
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen > clear_screen - cleared screen
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen > clear_screen - restored screen attributes, colors and cursor
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen > get_term_size - creating std handle
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen - printed centered title bar
+[12/07/23 13:48:34] main > main_menu > print_menu > new_screen - printing horizontal separator of width 150
+[12/07/23 13:48:34] main > main_menu > print_menu - safe opening file '../res/text/menus/main.txt'
+[12/07/23 13:48:34] main > main_menu > print_menu > get_term_size - creating std handle
+[12/07/23 13:48:34] main > main_menu > print_menu > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:34] main > main_menu > print_menu - reading from '../res/text/menus/main.txt'
+[12/07/23 13:48:34] main > main_menu > print_menu - read 6 file lines from '../res/text/menus/main.txt'
+[12/07/23 13:48:34] main > main_menu > print_menu - printed menu from '../res/text/menus/main.txt'
+[12/07/23 13:48:35] main - displaying leaderboard
+[12/07/23 13:48:35] main > leaderboard - attempting to display leaderboard
+[12/07/23 13:48:35] main > leaderboard > read_leaderboard - attempting to read leaderboard
+[12/07/23 13:48:35] main > leaderboard > read_leaderboard > is_file_empty - checking if the file is empty
+[12/07/23 13:48:35] main > leaderboard > read_leaderboard > is_file_empty - restored pointer position
+[12/07/23 13:48:35] main > leaderboard > read_leaderboard - reading leaderboard from file
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard - displayin leaderboard
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard - printing leaderboard
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen > clear_screen - got valid std handle
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen > clear_screen - cleared screen
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen > clear_screen - restored screen attributes, colors and cursor
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen > get_term_size - creating std handle
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen - printed centered title bar
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > new_screen - printing horizontal separator of width 150
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > get_term_size - creating std handle
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard - leaderboard is NOT empty.
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard > print_leaderboard - printed 2 entries
+[12/07/23 13:48:35] main > leaderboard > display_leaderboard - waiting for back key...
+[12/07/23 13:48:37] main > leaderboard > display_leaderboard - exiting this view
+[12/07/23 13:48:37] main > leaderboard - exited leaderboard view
+[12/07/23 13:48:37] main > main_menu > new_screen > clear_screen - got valid std handle
+[12/07/23 13:48:37] main > main_menu > new_screen > clear_screen - cleared screen
+[12/07/23 13:48:37] main > main_menu > new_screen > clear_screen - restored screen attributes, colors and cursor
+[12/07/23 13:48:37] main > main_menu > new_screen > get_term_size - creating std handle
+[12/07/23 13:48:37] main > main_menu > new_screen > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:37] main > main_menu > new_screen - printed centered title bar
+[12/07/23 13:48:37] main > main_menu > new_screen - printing horizontal separator of width 150
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen > clear_screen - got valid std handle
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen > clear_screen - cleared screen
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen > clear_screen - restored screen attributes, colors and cursor
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen > get_term_size - creating std handle
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen - printed centered title bar
+[12/07/23 13:48:37] main > main_menu > print_menu > new_screen - printing horizontal separator of width 150
+[12/07/23 13:48:37] main > main_menu > print_menu - safe opening file '../res/text/menus/main.txt'
+[12/07/23 13:48:37] main > main_menu > print_menu > get_term_size - creating std handle
+[12/07/23 13:48:37] main > main_menu > print_menu > get_term_size - returning width (150) and height (31)
+[12/07/23 13:48:37] main > main_menu > print_menu - reading from '../res/text/menus/main.txt'
+[12/07/23 13:48:37] main > main_menu > print_menu - read 6 file lines from '../res/text/menus/main.txt'
+[12/07/23 13:48:37] main > main_menu > print_menu - printed menu from '../res/text/menus/main.txt'
+[12/07/23 13:48:37] main - exiting game
+[12/07/23 13:48:37] main > clear_line - getting std handle
+[12/07/23 13:48:37] main > clear_line - cleared current line
+================================== STOP  LOG ==================================
